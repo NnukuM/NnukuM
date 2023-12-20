@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nnuku Mmami Moloi
 - 👀 I’m interested in adventurous activities
-- 🌱 I’m currently learning Front end development technologies
+- 🌱 I’m currently learning Front end developer technologies
 - 💞️ I’m looking to collaborate on anything coding
 - 📫 How to reach me ...
 
